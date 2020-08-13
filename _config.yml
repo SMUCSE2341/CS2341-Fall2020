@@ -1,15 +1,4 @@
 #theme: jekyll-theme-slate
-remote_theme: samarsault/texture
+remote_theme: longpdo/neumorphism
 
-texture:
-   title: Data Structures Fall 2020
-#  tagline: CS 2341 - SMU
-#  date_format: "%b %-d, %Y"
-#  style: purple
-#  show_excerpts: true
-#  showNav: true 
-
-#  social_links:
-#     github: MarkFontenot
-#     twitter: markthespot
 
