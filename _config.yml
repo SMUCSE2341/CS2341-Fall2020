@@ -1,13 +1,13 @@
 #theme: jekyll-theme-slate
 remote_theme: carlosperate/jekyll-theme-rtd
 title: CS 2341 - Fall 2020
-description: One-stop shopping for Data Structures materials!
-site_author: Mark Fontenot, PhD
-repo_url: 'https://github.com/SMUCSE2341/CS2341-Fall2020'
-sticky_navigation: true
-sticky_navigation: true
-prev_next_buttons_location: both
-search_enabled: true
+#description: One-stop shopping for Data Structures materials!
+#site_author: Mark Fontenot, PhD
+#repo_url: 'https://github.com/SMUCSE2341/CS2341-Fall2020'
+#sticky_navigation: true
+#sticky_navigation: true
+#prev_next_buttons_location: both
+#search_enabled: true
 
 
 
