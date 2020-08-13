@@ -1,5 +1,5 @@
-theme: jekyll-theme-slate
-#remote_theme: thelehhman/texture
+#theme: jekyll-theme-slate
+remote_theme: samarsault/texture
 
 #texture:
 #    title: Data Structures - Fall 2020
