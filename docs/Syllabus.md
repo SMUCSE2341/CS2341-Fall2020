@@ -1,6 +1,8 @@
+---
 layout: page
 title: "CS 2341 Syllabus"
 permalink: /syllabus/
+---
 
 # CS 2341 - Data Structures
 
